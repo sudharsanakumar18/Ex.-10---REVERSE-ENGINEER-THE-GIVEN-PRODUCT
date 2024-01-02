@@ -31,10 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![empd 10 a](https://github.com/sudharsanakumar18/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849110/0eafae58-9367-4741-b91b-336936869a0f)
+![empd 10 b](https://github.com/sudharsanakumar18/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849110/0d96fa88-df24-4a52-930b-86e8c7a69eca)
 
 ### Output:
-![empd 10 b](https://github.com/sudharsanakumar18/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849110/cb7b74af-3054-447f-9923-a0b1b56833a7)
+![empd 10 a](https://github.com/sudharsanakumar18/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849110/79abfbde-db54-49a4-896f-7b37cc535ffe)
+![empd 10 c](https://github.com/sudharsanakumar18/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849110/9e270e31-2966-40d2-831a-cac73057ef2f)
+
 
 
 ### Name: SUDHARSANA KUMAR S R
